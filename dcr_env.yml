@@ -1,0 +1,17 @@
+name: dcr
+packages:
+  - python
+  - astropy
+  - cloudpickle
+  - ipykernel
+  - joblib
+  - numpy
+  - pytest
+  - scikit-image
+  - scipy
+  - setuptools
+  - tensorboard
+  - tqdm
+  - conda-forge::astroscrappy
+  - pip:
+    - deepCR
