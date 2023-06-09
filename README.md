@@ -1,6 +1,6 @@
 # NGC 3568
 
-Python pipeline and processing *Hubble Space Telescope* (*HST*) files for NGC 3568.
+Python pipeline and processing *Hubble Space Telescope* (*HST*) files for NGC&#160;3568.
 
 ## Various Notes
 
