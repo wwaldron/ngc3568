@@ -1,6 +1,7 @@
 name: dcr
-packages:
+dependencies:
   - python
+  - pip
   - astropy
   - cloudpickle
   - ipykernel
