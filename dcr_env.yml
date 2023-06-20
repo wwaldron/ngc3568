@@ -6,6 +6,7 @@ dependencies:
   - cloudpickle
   - ipykernel
   - joblib
+  - matplotlib
   - numpy
   - pytest
   - scikit-image
