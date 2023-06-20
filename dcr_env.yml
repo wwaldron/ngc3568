@@ -16,4 +16,4 @@ dependencies:
   - tqdm
   - conda-forge::astroscrappy
   - pip:
-    - deepCR
+    - git+https://github.com/profjsb/deepCR.git#egg=deepCR
